@@ -8,6 +8,7 @@
 - serrano
 - Worcestershire sauce
 - red wine
+- mustard
 - soy sauce
 - molasses
 - black tea
